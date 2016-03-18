@@ -1,0 +1,1 @@
+"vpcode" is a virtual pet site package with basic features including login/register, adopt a pet, inventory, food shop, market, battle, random credits, and more. It is a near-turnkey framework, not a design suite. There is a basic help (read me) file included. ~Thomas
